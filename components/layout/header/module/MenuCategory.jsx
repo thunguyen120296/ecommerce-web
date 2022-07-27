@@ -15,6 +15,7 @@ export default function MenuCategory(props) {
               aria-owns={props.anchorEl ? 'simple-menu' : undefined}
               aria-haspopup="true"
               onClick={props.click}
+              value={category.title}
               onMouseOver={props.click}
               endIcon={<KeyboardArrowDownIcon />}
               sx={{ textTransform: 'capitalize' }}
@@ -24,21 +25,23 @@ export default function MenuCategory(props) {
             <Menu
               id="simple-menu"
               anchorEl={props.anchorEl}
-              open={Boolean(props.anchorEl)}
+              open={
+                props.openMenu == category.title
+                  ? Boolean(props.anchorEl)
+                  : false
+              }
               onClose={props.close}
               MenuListProps={{ onMouseLeave: props.close }}
             >
-              <Container maxWidth="xl" sx={{ display: 'flex' }}>
-                <Box>
-                  {category?.subCategory.map((subcategory) => (
-                    <>
-                      <MenuItem onClick={props.close}>
-                        {subcategory.title}
-                      </MenuItem>
-                    </>
-                  ))}
-                </Box>
-              </Container>
+              <Box>
+                {category?.subCategory.map((subcategory) => (
+                  <>
+                    <MenuItem onClick={props.close}>
+                      {subcategory.title}
+                    </MenuItem>
+                  </>
+                ))}
+              </Box>
             </Menu>
           </Box>
         </>

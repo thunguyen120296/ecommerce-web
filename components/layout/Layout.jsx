@@ -10,10 +10,8 @@ export default function Layout({ title, children }) {
         <meta name="description" content="This is demo Ecommerce website" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="h-full">
-        <HeaderDefault />
-        {children}
-      </main>
+      <HeaderDefault />
+      <main>{children}</main>
       <FooterDefault />
     </div>
   );

@@ -55,11 +55,10 @@ const StyledInputBase = styled(Autocomplete)(({ theme }) => ({
 }));
 export default function Navigation() {
   const [anchorEl, setAnchorEl] = useState(null);
-  const open = Boolean(anchorEl);
+  const [openMenu, setOpenMenu] = useState(null);
   const handleClick = (event) => {
-    if (anchorEl !== event.currentTarget) {
-      setAnchorEl(event.currentTarget);
-    }
+    setAnchorEl(event.currentTarget);
+    setOpenMenu(event.target.value);
   };
   const handleClose = () => {
     setAnchorEl(null);
@@ -165,6 +164,7 @@ export default function Navigation() {
                   click={handleClick}
                   close={handleClose}
                   anchorEl={anchorEl}
+                  openMenu={openMenu}
                 />
               </Box>
               {/* Nav right contact */}
