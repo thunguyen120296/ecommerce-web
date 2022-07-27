@@ -1,0 +1,223 @@
+{
+  "categories":[
+    {
+      "id": 1,
+      "title": "Rau củ",
+      "slug": "/rau-cu",
+      "subCategory": [
+        {
+          "id": 1,
+          "title": "Cà rốt",
+          "slug": "/ca-rot"
+        },
+        {
+          "id": 2,
+          "title": "Bông cải xanh",
+          "slug": "/bong-cai-xanh"
+        },
+        {
+          "id": 3,
+          "title": "Măng tây",
+          "slug": "/mang-tay"
+        },
+        {
+          "id": 4,
+          "title": "Súp lơ",
+          "slug": "/sup-lo"
+        },
+        {
+          "id": 5,
+          "title": "Cà tím",
+          "slug": "/ca-tim"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Trái cây",
+      "slug": "/trai-cay",
+      "subCategory": [
+        {
+          "id": 1,
+          "title": "Quả táo",
+          "slug": "/qua-tao"
+        },
+        {
+          "id": 2,
+          "title": "Trái cam",
+          "slug": "/trai-cam"
+        },
+        {
+          "id": 3,
+          "title": "Trái chuối",
+          "slug": "/trai-chuoi"
+        },
+        {
+          "id": 4,
+          "title": "Dưa hấu",
+          "slug": "/dua-hau"
+        },
+        {
+          "id": 5,
+          "title": "Trái xoài",
+          "slug": "/trai-xoai"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Hải sản",
+      "slug": "/hai-san",
+      "subCategory": [
+        {
+          "id": 1,
+          "title": "Tôm",
+          "slug": "/tom"
+        },
+        {
+          "id": 2,
+          "title": "Bạch tuộc",
+          "slug": "/bach-tuoc"
+        },
+        {
+          "id": 3,
+          "title": "Mực",
+          "slug": "/muc"
+        },
+        {
+          "id": 4,
+          "title": "Cua",
+          "slug": "/cua"
+        },
+        {
+          "id": 5,
+          "title": "Cá",
+          "slug": "/ca"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Đồ ăn nhanh",
+      "slug": "/do-an-nhanh",
+      "subCategory": [
+        {
+          "id": 1,
+          "title": "Bánh mì kẹp thịt",
+          "slug": "/banh-mi-kep-thit"
+        },
+        {
+          "id": 2,
+          "title": "Sữa lắc",
+          "slug": "/sua-lac"
+        },
+        {
+          "id": 3,
+          "title": "Bánh mì sandwich",
+          "slug": "/banh-mi-sandwich"
+        },
+        {
+          "id": 4,
+          "title": "Bánh mì hamburger",
+          "slug": "/banh-mi-hamburger"
+        },
+        {
+          "id": 5,
+          "title": "Pizza",
+          "slug": "/pizza"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Đồ uống",
+      "slug": "/do-uong",
+      "subCategory": [
+        {
+          "id": 1,
+          "title": "Cocktail",
+          "slug": "/cocktail"
+        },
+        {
+          "id": 2,
+          "title": "Soda",
+          "slug": "/soda"
+        },
+        {
+          "id": 3,
+          "title": "Rượu",
+          "slug": "/ruou"
+        },
+        {
+          "id": 4,
+          "title": "Nước ngọt",
+          "slug": "/nuoc-ngot"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Thực phẩm khô",
+      "slug": "/thuc-pham-kho",
+      "subCategory": [
+        {
+          "id": 1,
+          "title": "Mì sợi",
+          "slug": "/mi-soi"
+        },
+        {
+          "id": 2,
+          "title": "Sữa bột",
+          "slug": "/sua-bot"
+        },
+        {
+          "id": 3,
+          "title": "Ngũ cốc",
+          "slug": "/ngu-coc"
+        },
+        {
+          "id": 4,
+          "title": "Các loại đậu",
+          "slug": "/cac-loai-dau"
+        },
+        {
+          "id": 5,
+          "title": "Các loại hạt",
+          "slug": "/cac-loai-hat"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Thực phẩm ăn kiêng",
+      "slug": "/thuc-pham-an-kieng",
+      "subCategory": [
+        {
+          "id": 1,
+          "title": "Cá hồi",
+          "slug": "/ca-hoi"
+        },
+        {
+          "id": 2,
+          "title": "Bơ",
+          "slug": "/bo"
+        },
+        {
+          "id": 3,
+          "title": "Khoai tây",
+          "slug": "/khoai-tay"
+        },
+        {
+          "id": 4,
+          "title": "Phô mai",
+          "slug": "/pho-mai"
+        },
+        {
+          "id": 5,
+          "title": "Rau xanh",
+          "slug": "/rau-xanh"
+        }
+      ]
+    }
+  ]
+}
