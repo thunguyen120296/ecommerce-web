@@ -16,7 +16,7 @@ export default function MenuCategory(props) {
               aria-haspopup="true"
               onClick={props.click}
               value={category.title}
-              onMouseOver={props.click}
+              // onMouseOver={props.click}
               endIcon={<KeyboardArrowDownIcon />}
               sx={{ textTransform: 'capitalize' }}
             >
@@ -31,7 +31,7 @@ export default function MenuCategory(props) {
                   : false
               }
               onClose={props.close}
-              MenuListProps={{ onMouseLeave: props.close }}
+              // MenuListProps={{ onMouseLeave: props.close }}
             >
               <Box>
                 {category?.subCategory.map((subcategory) => (

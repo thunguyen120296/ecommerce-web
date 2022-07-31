@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Rau củ",
       "slug": "/rau-cu",
+      "image": "/img/categories/rau-cu.jpg",
       "subCategory": [
         {
           "id": 1,
@@ -36,6 +37,7 @@
       "id": 2,
       "title": "Trái cây",
       "slug": "/trai-cay",
+      "image": "/img/categories/trai-cay.jpg",
       "subCategory": [
         {
           "id": 1,
@@ -68,6 +70,7 @@
       "id": 3,
       "title": "Hải sản",
       "slug": "/hai-san",
+      "image": "/img/categories/hai-san.jpg",
       "subCategory": [
         {
           "id": 1,
@@ -100,6 +103,7 @@
       "id": 4,
       "title": "Đồ ăn nhanh",
       "slug": "/do-an-nhanh",
+      "image": "/img/categories/do-an-nhanh.jpg",
       "subCategory": [
         {
           "id": 1,
@@ -132,6 +136,7 @@
       "id": 5,
       "title": "Đồ uống",
       "slug": "/do-uong",
+      "image": "/img/categories/do-uong.jpg",
       "subCategory": [
         {
           "id": 1,
@@ -159,6 +164,7 @@
       "id": 6,
       "title": "Thực phẩm khô",
       "slug": "/thuc-pham-kho",
+      "image": "/img/categories/thuc-pham-kho.jpg",
       "subCategory": [
         {
           "id": 1,
@@ -191,6 +197,7 @@
       "id": 7,
       "title": "Thực phẩm ăn kiêng",
       "slug": "/thuc-pham-an-kieng",
+      "image": "/img/categories/thuc-pham-an-kieng.jpg",
       "subCategory": [
         {
           "id": 1,
