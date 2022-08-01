@@ -1,0 +1,187 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "tilte": "Bắp cải",
+            "slug": "/bap-cai",
+            "image": "/img/products/vegetables/bap-cai.jpg",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "title": "Cà chua",
+            "slug": "/ca-chua",
+            "image": "/img/products/vegetables/ca-chua.jpg",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "title": "Cà rốt",
+            "slug": "/ca-rot",
+            "image": "/img/products/vegetables/ca-rot.jpg",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "title": "Cà tím",
+            "slug": "/ca-tim",
+            "image": "/img/products/vegetables/ca-tim.jpg",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "title": "Đậu bắp",
+            "slug": "/dau-bap",
+            "image": "/img/products/vegetables/dau-bap.jpg",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "tilte": "Dưa leo",
+            "slug": "/dua-leo",
+            "image": "/img/products/vegetables/dua-leo.jpg",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "title": "Hành tây",
+            "slug": "hanh-tay",
+            "image": "/img/products/vegetables/hanh-tay.jpg",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "title": "Ớt Đà Lạt",
+            "slug": "ot-da-lat",
+            "image": "/img/products/vegetables/ot-da-lat.jpg",
+            "category": 1
+        },
+        {
+            "id": 9,
+            "tilte": "Ớt",
+            "slug": "ot",
+            "image": "/img/products/vegetables/ot.jpg",
+            "category": 1
+        },
+        {
+            "id": 10,
+            "title": "Quả cam",
+            "slug": "qua-cam",
+            "image": "/img/products/fruits/qua-cam.jpg",
+            "category": 2
+        },
+        {
+            "id": 11,
+            "title": "Quả chuối",
+            "slug": "qua-chuoi",
+            "image": "/img/products/fruits/qua-chuoi.jpg",
+            "category": 2
+        },
+        {
+            "id": 12,
+            "title": "Quả đào",
+            "slug": "qua-dao",
+            "image": "/img/products/fruits/qua-dao.jpg",
+            "category": 2
+        },
+        {
+            "id": 13,
+            "title": "Quả dâu",
+            "slug": "qua-dau",
+            "image": "/img/products/fruits/qua-dau.jpg",
+            "category": 2
+        },
+        {
+            "id": 14,
+            "title": "Quả nho",
+            "slug": "qua-nho",
+            "image": "/img/products/fruits/qua-nho.jpg",
+            "category": 2
+        },
+        {
+            "id": 15,
+            "tilte": "Quả thơm",
+            "slug": "qua-thom",
+            "image": "/img/products/fruits/qua-thom.jpg",
+            "category": 2
+        },
+        {
+            "id": 16,
+            "title": "Bạch tuộc",
+            "slug": "bach-tuoc",
+            "image": "/img/products/seafood/bach-tuoc.jpg",
+            "category": 3
+        },
+        {
+            "id": 17,
+            "tilte": "Hào",
+            "slug": "hao",
+            "image": "/img/products/seafood/hao.jpg",
+            "category": 3
+        },
+        {
+            "id": 18,
+            "title": "Mực",
+            "slug": "muc",
+            "image": "/img/products/seafood/muc.jpg",
+            "category": 3
+        },
+        {
+            "id": 19,
+            "title": "Tôm",
+            "slug": "tom",
+            "image": "/img/products/seafood/tom.jpg",
+            "category": 3
+        },
+        {
+            "id": 20,
+            "title": "Bánh cua",
+            "slug": "banh-cua",
+            "image": "/img/products/fastfood/banh-cua.jpg",
+            "category": 4
+        },
+        {
+            "id": 21,
+            "title": "Bánh trứng",
+            "slug": "banh-trung",
+            "image": "/img/products/fastfood/banh-trung.jpg",
+            "category": 4
+        },
+        {
+            "id": 22,
+            "title": "Sandwich",
+            "slug": "/sandwich",
+            "image": "/img/products/fastfood/sandwich.jpg",
+            "category": 4
+        },
+        {
+            "id": 23,
+            "title": "Hạnh nhân",
+            "slug": "/hanh-nhan",
+            "image": "/img/products/driedfood/hanh-nhan.jpg",
+            "category": 6
+        },
+        {
+            "id": 24,
+            "title": "Hạt dẻ",
+            "slug": "/hat-de",
+            "image": "/img/products/driedfood/hat-de.jpg",
+            "category": 6
+        },
+        {
+            "id": 25,
+            "title": "Óc chó",
+            "slug": "/oc-cho",
+            "image": "/img/products/driedfood/oc-cho.jpg",
+            "category": 6
+        },
+        {
+            "id": 26,
+            "title": "Cá hồi",
+            "slug": "ca-hoi",
+            "image": "/img/products/healthyfood/ca-hoi.jpg",
+            "category": 7
+        }
+
+    ]
+}
